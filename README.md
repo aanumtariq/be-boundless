@@ -1,2 +1,2 @@
 # be-boundless
-A CURD web application working as Travelling website based on PHP framework LARAVEL.
+An online trip reservation platform with dynamic data implemented through admin dashboard based on PHP framework LARAVEL.
